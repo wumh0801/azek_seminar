@@ -1,8 +1,8 @@
-## The AZEK Seminar Repository
+## The "Introduction to Financial Data Science" Notebook Repository
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-A set of introductory lab notebooks that we prepared for the AZEK seminar on "Financial Data Science". The content of the notebooks is based on Python, IPython Notebook, and PyTorch.
+A set of introductory lab notebooks that we prepared for the AZEK seminar on **"Financial Data Science"**. The content of the notebooks is based on Python, IPython Notebook, and PyTorch.
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/azek_seminar)
 
