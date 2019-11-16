@@ -10,4 +10,6 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 ## Running the Lab Notebooks
 
-**Lab 01:** "Examplary Financial Data Science Process" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_01/azek_colab_01.ipynb))
+**Lab 01:** "Exemplary Financial Data Science Process" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_01/azek_colab_01.ipynb))
+
+**Lab 02:** "Exemplary Long Short-Term Memory Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_02/azek_colab_02.ipynb))
