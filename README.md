@@ -8,9 +8,11 @@ The development of the notebooks is in constant progress so expect minor errors 
 
 ## Running the Lab Notebooks in Google's Colab:
 
+**Lab 00:** "Testing the Lab Environment" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_00/azek_colab_00.ipynb))
+
 **Lab 01:** "Exemplary Financial Data Science Process" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_01/azek_colab_01.ipynb))
 
-**Lab 02:** "Exemplary Long Short-Term Memory Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_02/azek_colab_02.ipynb))
+**Lab 02:** "Long Short-Term Memory Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_02/azek_colab_02.ipynb))
 
 ## Running the Lab Notebooks in Microsoft's Azure Cloud:
 
