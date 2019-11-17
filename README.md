@@ -6,7 +6,7 @@ A set of introductory lab notebooks that we prepared for the AZEK seminar on **"
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/azek_seminar)
 
-This is currently work in progress so expect minor errors and some rough edges ;)
+The development of the notebooks is in constant progress so expect minor errors and some rough edges ;)
 
 ## Running the Lab Notebooks
 
