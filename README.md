@@ -19,4 +19,4 @@ The development of the notebooks is in constant progress so expect minor errors 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/azek_seminar)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=https%3A%2F%2Fgithub.com%2Ffinancial-data-science%2Fazek_seminar%2Fblob%2Fmaster%2Flab_00%2Fazek_lab_00.ipynb)
+https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_00%2Fazek_lab_00.ipynb
