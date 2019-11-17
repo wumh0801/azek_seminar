@@ -18,5 +18,10 @@ The development of the notebooks is in constant progress so expect minor errors 
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/azek_seminar)
 
+## Running the Lab Notebooks in Binder:
 
-https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_00%2Fazek_lab_00.ipynb
+**Lab 00:** "Testing the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_00%2Fazek_lab_00.ipynb))
+
+**Lab 01:** "Exemplary Financial Data Science Process" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_01%2Fazek_lab_01.ipynb))
+
+**Lab 02:** "Long Short-Term Memory Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_02%2Fazek_lab_02.ipynb))
